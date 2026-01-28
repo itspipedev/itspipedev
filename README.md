@@ -24,7 +24,7 @@
 
 ### Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,reactnative,angular,flutter,dart,tailwind,threejs,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,angular,flutter,dart,tailwind,threejs,html,css" height="45" />
 </p>
 
 ### Datos, IA & Automatización
@@ -39,7 +39,7 @@
 
 ---
 
-## Métricas de Ingeniería
+## Métricas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itspipedev&show_icons=true&theme=tokyonight&locale=es&hide_border=true" width="48%" />
