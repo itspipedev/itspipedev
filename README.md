@@ -1,64 +1,72 @@
-<h1 align="center">¡Hola! Soy Andrés Felipe Escobar 👋</h1>
+<h1 align="center">Andrés Felipe Escobar | Desarrollador Fullstack 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&fontColor=ffffff&text=Software%20Engineer%20|%20Fullstack%20Developer%20|%20Electronics%20Student&fontSize=25&color=0077B5&height=120&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Aprendiz%20SENA%20|%20Fullstack%20Dev&fontSize=45&color=0077B5&fontAlignY=35&animation=twinkling" />
 </p>
 
+## 🕹️ Mi Actividad de Contribuciones
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itspipedev/itspipedev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itspipedev/itspipedev/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/itspipedev/itspipedev/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
 
-### 🚀 Sobre mí
-- [cite_start]🎓 **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** por el SENA.
-- [cite_start]⚡ **Estudiante de Ingeniería Electrónica** (4.º semestre) en la UNAD, lo que me permite integrar Hardware y Software.
-- [cite_start]🏢 Actualmente iniciando mi etapa productiva en **Metrocuadrado** como Aprendiz de Desarrollo[cite: 33, 45].
-- [cite_start]🤖 Especializado en aplicaciones web/móviles y soluciones con **IoT e Inteligencia Artificial**.
+## 🛠️ Stack 
 
----
-
-### 🛠️ Mi Ecosistema Tecnológico
-
-#### 🎨 Frontend & Mobile
+### 🎨 Frontend & Desarrollo UI
+> Creación de interfaces intuitivas, reactivas y optimizadas para la mejor experiencia de usuario.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,sass,flutter,dart,ionic,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,sass,threejs,figma" height="45" />
 </p>
 
-#### ⚙️ Backend, Data & IoT
+### ⚙️ Backend & Arquitectura de Software
+> Diseño de APIs, lógica de negocio y estructuración de servicios escalables.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,cs,cpp,mysql,postgres,redis,tensorflow,docker,npm" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,php,cs,cpp" height="45" />
+</p>
+
+### 💾 Persistencia de Datos & Caché
+> Modelado de datos, optimización de consultas y gestión de bases de datos relacionales y NoSQL.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" height="45" />
+</p>
+
+### 📱 Desarrollo Móvil & IA
+> Aplicaciones multiplataforma (nativas/híbridas) e integración de modelos de aprendizaje profundo.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,ionic,tensorflow" height="45" />
+</p>
+
+### 🚀 DevOps & Ecosistema de Desarrollo
+> Automatización de despliegues, contenedorización y control de versiones.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,npm,pnpm,linux" height="45" />
 </p>
 
 ---
 
-### 📁 Proyectos Destacados
-- [cite_start]**AGROTECH (SENA):** Sistema de gestión agrícola con georreferenciación y monitoreo en tiempo real mediante **IoT** (sensores de temperatura/humedad) y automatización con n8n.
-- [cite_start]**COFFEE CHECK (SENNOVA):** App móvil para detectar enfermedades en el café usando **Inteligencia Artificial (TensorFlow)**.
-
----
-
-### 📊 Actividad en GitHub
+## 📊 Métricas de Rendimiento
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itspipedev&show_icons=true&theme=tokyonight&locale=es&hide_border=true&card_width=400" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itspipedev&show_icons=true&theme=tokyonight&locale=es&hide_border=true" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspipedev&layout=compact&theme=tokyonight&locale=es&hide_border=true&card_width=350" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspipedev&layout=compact&theme=tokyonight&locale=es&hide_border=true" />
       </td>
     </tr>
   </table>
+  <img src="https://streak-stats.demolab.com?user=itspipedev&locale=es&mode=daily&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Conectemos
+## 📬 Contacto & Conexión
 <p align="center">
   <a href="https://www.linkedin.com/in/itspipedev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -66,8 +74,5 @@
   <a href="mailto:andresescobarbeltran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itspipedev&color=0077B5&style=flat-square&label=VISITAS%20AL%20PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=itspipedev&color=0077B5&style=for-the-badge&label=VISTAS%20DEL%20PERFIL" />
 </p>
